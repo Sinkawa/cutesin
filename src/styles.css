@@ -1,0 +1,13 @@
+.button {
+    display:inline-block;
+    padding:0;
+    width:25px;
+    height:25px;
+    border:none;
+    background:#000 no-repeat;
+    text-indent:-9999px;
+    }
+.button.play {
+    background-image:url(drawable/play-button.png);
+    background-image:rgba(0, 0, 0, 0) url(drawable/play-button.svg);
+    }
