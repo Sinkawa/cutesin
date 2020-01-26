@@ -19,7 +19,7 @@
 .block {
     background: #f3d52f; 
     width: 90%;
-    height: 80%;
+    height: max-content;
     padding: 20px;
     padding-left: 0px;
     padding-right: 25px;
