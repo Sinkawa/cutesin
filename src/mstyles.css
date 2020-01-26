@@ -29,14 +29,14 @@
 }
 
 .hidden {
-    position: absolute;
+    position: fixed;
     background: rgb(255, 204, 0);
     border: solid 0.5px black;
     width: max-content;
     max-width: 300px;
     height: max-content;
-    left: 100%;
-    top: 100%;
+    left: 10%;
+    top: 1%;
     display: none;
     color: black;
     float: right;
@@ -44,11 +44,12 @@
     padding-left: 10px;
     padding-right: 10px;
     text-align: justify;
+    z-index: 10;
 }
 
 .plus {
+	position: relative;
     font-size: 11px;
-    position: relative;
     color: darkred;
     background-color: #f3d52f;
     border: none;
