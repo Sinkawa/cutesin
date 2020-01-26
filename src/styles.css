@@ -36,10 +36,11 @@
 .block {
     background: #f3d52f; 
     width: 400px;
-    height: 200px;
+    height: max-content;
     padding: 5px;
     padding-left: 0px;
     padding-right: 20px;
+    padding-bottom: 7px;
     border: solid 1px black;
     position: absolute;
     top: 50%;
