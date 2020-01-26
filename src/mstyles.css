@@ -34,7 +34,7 @@
     border: solid 0.5px black;
     width: max-content;
     max-width: 300px;
-    height: 90%;
+    height: max-content;
     left: 100%;
     top: 100%;
     display: none;
