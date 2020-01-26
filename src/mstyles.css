@@ -12,6 +12,7 @@
     width: 90%;
     height: : 90%;
     padding: 15px;
+    padding-right: 25px;
     border: solid 1px black;
     margin: auto;
 }
@@ -61,7 +62,7 @@
 
 h1 {
     font-size: 20px;
-    text-align: center;
+    text-align: justify;
 }
 
 p {
