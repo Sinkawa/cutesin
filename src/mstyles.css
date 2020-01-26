@@ -58,7 +58,7 @@
 
 h1 {
     font-size: 16px;
-    text-align: justify;
+    text-align: center;
 }
 
 p {
@@ -69,6 +69,10 @@ p {
 
 a:link, a:visited, a:active { text-decoration: none; color: darkblue; }
 a:hover { text-decoration: underline; color: blue; }
+
+li {
+	text-align: justify;
+}
 
 li ~li {
     margin-top: 10px;
