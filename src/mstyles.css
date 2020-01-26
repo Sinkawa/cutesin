@@ -21,7 +21,6 @@
     width: 90%;
     height: max-content;
     padding: 15px;
-    padding-left: 0px;
     border: solid 1px black;
     margin: auto;
     text-align: justify;
@@ -74,4 +73,8 @@ a:hover { text-decoration: underline; color: blue; }
 
 li ~li {
     margin-top: 10px;
+}
+
+ul {
+	padding: 0;
 }
