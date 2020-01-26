@@ -30,7 +30,7 @@
     position: fixed;
     background: rgb(255, 204, 0);
     border: solid 0.5px black;
-    width: 90%;
+    width: 92%;
     height: max-content;
     left: 1%;
     top: 1%;
@@ -69,10 +69,6 @@ p {
 
 a:link, a:visited, a:active { text-decoration: none; color: darkblue; }
 a:hover { text-decoration: underline; color: blue; }
-
-li {
-	text-align: justify;
-}
 
 li ~li {
     margin-top: 10px;
