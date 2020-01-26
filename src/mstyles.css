@@ -33,9 +33,9 @@
     background: rgb(255, 204, 0);
     border: solid 0.5px black;
     width: max-content;
-    max-width: 300px;
+    max-width: 90%;
     height: max-content;
-    left: 10%;
+    left: 1%;
     top: 1%;
     display: none;
     color: black;
