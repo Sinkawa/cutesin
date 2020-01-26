@@ -6,9 +6,7 @@
 .entry {
     background: #fc0; 
     width: 100pt;
-    height: auto;
     padding: 5px;
     border: solid 1px black;
-    left: 20px;
-    position: absolute;
+    margin: auto;
 }
