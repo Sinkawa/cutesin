@@ -1,3 +1,4 @@
+
 .colortext {
     color: darkblue;
 }
@@ -6,7 +7,7 @@
     background: rgb(32, 32, 32);
     background-image: url(drawable/background.svg);
     background-attachment: fixed;
-    background-blend-mode: overlay;
+    background-blend-mode: normal;
     font-family: monospace;
 }
 

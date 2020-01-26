@@ -3,7 +3,7 @@
         line { stroke: #ccc; }
     </style>
 <defs>
-<pattern id="diagonalHatch" width="10" height="10" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+<pattern id="diagonalHatch" width="20" height="10" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
   <line x1="0" y1="0" x2="0" y2="100" />
 </pattern>
 </defs>
