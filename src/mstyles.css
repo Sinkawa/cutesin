@@ -12,7 +12,6 @@
     width: 90%;
     height: : 90%;
     padding: 15px;
-    padding-right: 25px;
     border: solid 1px black;
     margin: auto;
 }
@@ -23,7 +22,6 @@
     height: max-content;
     padding: 15px;
     padding-left: 0px;
-    padding-right: 25px;
     border: solid 1px black;
     margin: auto;
     text-align: justify;
@@ -61,7 +59,7 @@
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 16px;
     text-align: justify;
 }
 
