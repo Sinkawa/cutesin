@@ -51,7 +51,7 @@
     position: relative;
     color: darkred;
     background-color: #f3d52f;
-    border: solid 0.5px black;
+    border: none;
 }
 
 .plus:focus .hidden {
