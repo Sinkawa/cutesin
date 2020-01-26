@@ -5,8 +5,8 @@
 
 .entry {
     background: #fc0; 
-    width: 90%;
-    height: 90%;
+    width: auto;
+    height: auto;
     padding: 5px;
     border: solid 1px black;
     position: absolute;

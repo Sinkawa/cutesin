@@ -11,6 +11,9 @@
     background-image:url(drawable/play-button.png);
     background-image:rgba(0, 0, 0, 0) url(drawable/play-button.svg);
     }*/
+.colortext {
+    color: darkblue;
+}
 
 .body {
     background: rgb(32, 32, 32);
