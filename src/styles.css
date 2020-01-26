@@ -23,8 +23,8 @@
 .entry {
     background: #f3d52f; 
     width: 400px;
-    height: 200px;
-    padding: 5px;
+    height: max-content;
+    padding: 15px;
     border: solid 1px black;
     position: absolute;
     top: 50%;
@@ -37,7 +37,7 @@
     background: #f3d52f; 
     width: 400px;
     height: max-content;
-    padding: 5px;
+    padding: 15px;
     border: solid 1px black;
     position: absolute;
     top: 50%;
