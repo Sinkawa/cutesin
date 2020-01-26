@@ -1,4 +1,4 @@
-.button {
+/*.button {
     display:inline-block;
     padding:0;
     width:25px;
@@ -10,4 +10,47 @@
 .button.play {
     background-image:url(drawable/play-button.png);
     background-image:rgba(0, 0, 0, 0) url(drawable/play-button.svg);
-    }
+    }*/
+.body {
+    background: rgb(32, 32, 32);
+    font-family: monospace;
+}
+
+.entry {
+    background: #fc0; 
+    width: 400px;
+    height: 200px;
+    padding: 5px;
+    border: solid 1px black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.block {
+    background: #fc0; 
+    width: 400px;
+    height: 200px;
+    padding: 5px;
+    border: solid 1px black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin-top: center;
+    padding: 5px;
+}
+a:link, a:visited, a:active { text-decoration: none; color: darkblue; }
+a:hover { text-decoration: underline; color: blue; }
