@@ -3,7 +3,7 @@
 }
 
 .body {
-    background: rgb(32, 32, 32);
+    background: rgb(64, 64, 64);
     background-image: url(drawable/mbackground.svg);
     background-attachment: fixed;
     background-blend-mode: normal;
