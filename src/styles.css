@@ -17,7 +17,7 @@
 
 .body {
     background: rgb(32, 32, 32);
-    background-image: url(drawable/svg/background.svg);
+    background-image: url(drawable/background.svg);
     font-family: monospace;
 }
 
