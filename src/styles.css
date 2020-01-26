@@ -38,9 +38,6 @@
     width: 400px;
     height: max-content;
     padding: 5px;
-    padding-left: 0px;
-    padding-right: 20px;
-    padding-bottom: 7px;
     border: solid 1px black;
     position: absolute;
     top: 50%;
@@ -94,4 +91,9 @@ a:hover { text-decoration: underline; color: blue; }
 
 li ~li {
     margin-top: 10px;
+}
+
+ul {
+    padding-left: 15px;
+    padding-right: 15px;
 }
