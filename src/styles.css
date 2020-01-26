@@ -21,7 +21,7 @@
 }
 
 .entry {
-    background: #fc0; 
+    background: #f3d52f; 
     width: 400px;
     height: 200px;
     padding: 5px;
@@ -34,7 +34,7 @@
 }
 
 .block {
-    background: #fc0; 
+    background: #f3d52f; 
     width: 400px;
     height: 200px;
     padding: 5px;
@@ -51,7 +51,7 @@
 
 .hidden {
     position: absolute;
-    background: #fc0;
+    background: #f3d52f;
     border: solid 0.5px black;
     width: max-content;
     max-width: 300px;
